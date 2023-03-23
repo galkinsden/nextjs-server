@@ -1,3 +1,6 @@
+### Required
+Node.js 18.0.0+
+
 ### Prepare
 
 1. add to /etc/hosts:
@@ -14,8 +17,19 @@ npm i
 ```
 
 3. 
+nextjs ssr:
 ```
 npm run nextjs-app
+```
+
+react:
+```
+npm run react-app
+```
+
+Gatsby:
+```
+npm run gatsby
 ```
 
 4. open in browser: 
